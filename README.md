@@ -1,6 +1,1 @@
-docker configuration
-
-
-
-
-hostname
+mgmt01-samuel
